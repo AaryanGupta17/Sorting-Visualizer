@@ -41,3 +41,12 @@ button:hover{
     border: 1.25px solid blue;
     width: 0.75%;
   }
+
+a{
+    text-decoration: none;
+    color: aqua;
+}
+
+a:hover{
+    color: #00FF00;
+}
